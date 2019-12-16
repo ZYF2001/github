@@ -4,3 +4,4 @@ BOXEN的基础上收集了大量的几十个木偶模块，使设置的各种软件，如卡桑德拉，MongoDB中
 GitHub 使用 git 分布式版本控制系统，而 git 最初是 LinusTorvalds 为帮助Linux开发而创造的，它针对的是 Linux 平台，因此 git 和 Windows 从来不是最好的朋友，因为它一点也不像 Windows。GitHub 发布了GitHub for Windows，为 Windows 平台开发者提供了一个易于使用的 Git 图形客户端。
 2013年1月15日晚间，全球最大的社交编程及代码托管网站GitHub突然疑似遭遇DDOS攻击，访问大幅放缓，该网站管理员经过日志查询，发现是来自12306的抢票插件用户洪水般的访问导致GitHub出现问题。
 2013年1月20日左右，GitHub在中国大陆被官方的防火长城封锁(封锁手段为域名污染和关键词过滤)，李开复等一些微博大号呼吁解禁GitHub，微博转发近10万条。2013年1月23日github网站恢复正常访问。
+我喜欢GitHub
